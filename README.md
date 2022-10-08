@@ -12,3 +12,10 @@ List of my filming equipment
 - Pentax MX-1
 
 ## Lenses
+- 70-200mm F2.8
+- 28-70mm F2.8
+- 16-35mm F2.8
+- 100mm Macro F2.8
+- 35mm F1.8
+
+## Tripods
