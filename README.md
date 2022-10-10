@@ -7,6 +7,7 @@ List of my filming equipment
 - Canon EOS 6D Mark2
 - Canon EOS 60D
 - Canon EOS Kiss 2
+- Canon G7 X Mark2
 - Fujifilm X100F
 - Ricoh GR
 - Pentax MX-1
