@@ -1,4 +1,4 @@
-# gear
+# GEAR
 List of my filming equipment
 
 ## Camera
