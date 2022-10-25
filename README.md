@@ -20,3 +20,8 @@ List of my filming equipment
 - SIGMA 35mm F1.4 DG
 
 ## Tripods
+
+## Lights
+- Aterm
+- Canon
+- Canon
