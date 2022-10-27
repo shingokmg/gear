@@ -25,3 +25,6 @@ List of my filming equipment
 - Aterm
 - Canon
 - Canon
+
+## Microphones
+
