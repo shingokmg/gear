@@ -29,5 +29,5 @@ List of my filming equipment
 ## Microphones
 
 ## Monitor
-
+- BENQ
 ## test
