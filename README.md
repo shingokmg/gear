@@ -32,4 +32,4 @@ List of my filming equipment
 ## Monitor
 - BENQ
 - NINJA
-## test
+## Rig
