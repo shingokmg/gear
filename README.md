@@ -28,6 +28,7 @@ List of my filming equipment
 - Canon
 
 ## Microphones
+- SM7B
 
 ## Monitor
 - BENQ
