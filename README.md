@@ -19,6 +19,7 @@ List of my filming equipment
 - Canon 100mm Macro F2.8
 - SIGMA 35mm F1.4 DG
 - CONTAX Carl Zeiss Planar T* 50mm F1.4
+- CONTAX Carl Zeiss Planar T* 85mm F1.4
 
 ## Tripods
 
