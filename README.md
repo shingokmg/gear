@@ -22,7 +22,7 @@ List of my filming equipment
 - CONTAX Carl Zeiss Planar T* 85mm F1.4
 
 ## Tripods
-
+- Manfrotto
 
 ## Lights
 - Aterm
